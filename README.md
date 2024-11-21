@@ -1,6 +1,5 @@
 # Microphone-Sound-Enhancement
-To be able to hear what a person says on a stage or in a conference room, micro-
-phones can be used to enhance and amplify the voice of the speaker. However, if
+To be able to hear what a person says on a stage or in a conference room, microphones can be used to enhance and amplify the voice of the speaker. However, if
 there is only one loudspeaker that gives output, the immersion might be ruined for
 the listeners since the sound does not come directly from the speaker’s voice on stage.
 In this project, we investigate the possibility of a system that gives the audience
